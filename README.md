@@ -1,4 +1,4 @@
-# Titanic-eda
+# Titanic Exploratory Data Analysis
 
 ### 📌 Overview
 
