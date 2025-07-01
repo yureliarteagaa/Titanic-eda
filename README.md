@@ -1,13 +1,14 @@
 # Titanic-eda
 
-📌 Overview
+### 📌 Overview
+
+---
 
 This project analyzes the famous Titanic dataset to discover patterns and insights related to passengers who survived. The goal was to practice data cleaning, exploratory data analysis (EDA), and basic data visualization using Python and Pandas.
 
 ### 🛠️ Tools & Libraries  
 - Python (Jupyter Notebook)  
-- Pandas  
-- Seaborn / Matplotlib  
+- Pandas   
 - Titanic dataset (Kaggle)
 
 ---
@@ -26,3 +27,24 @@ This project analyzes the famous Titanic dataset to discover patterns and insigh
 - Fare price also slightly correlated with survival odds  
 
 > 📌 Visuals used: bar plots, histograms, heatmaps
+
+---
+
+### 📁 Files Included  
+- `titanic_eda.ipynb` – Full analysis notebook  
+- `charts/` – Key visualizations (e.g. survival by sex, class)  
+- `dataset/` – Titanic data from Kaggle
+
+---
+
+### ✅ What I Practiced  
+- Importing and cleaning real-world data  
+- Working with `.groupby()`, `.value_counts()`, and filtering in Pandas  
+- Creating visual insights from raw data  
+- Writing a clear project summary
+
+---
+
+### 🚀 Future Improvements  
+- Add a simple predictive model (logistic regression)  
+- Deploy interactive dashboard using Tableau
