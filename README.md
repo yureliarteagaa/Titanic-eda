@@ -45,6 +45,18 @@ This project analyzes the famous Titanic dataset to discover patterns and insigh
 
 ---
 
+### 📊 Sample Visuals
+
+#### Survival Rate by Sex  
+![Survival by Sex](charts/survival_by_sex.png)
+
+#### Age Distribution  
+![Age Distribution](charts/age_distribution.png)
+
+#### Correlation Heatmap  
+![Correlation Heatmap](charts/correlation_heatmap.png)
+
+
 ### 🚀 Future Improvements  
 - Add a simple predictive model (logistic regression)  
 - Deploy interactive dashboard using Tableau
